@@ -19,4 +19,4 @@ Halaman keempat untuk delete dan update
 
 Halaman kelima tampilan setelah salah satu store telah di delete
 
-<img src="https://github.com/faizum/DrinkStoreApp2/blob/main/screenshoot/4.PNG">
+<img src="https://github.com/faizum/DrinkStoreApp2/blob/main/screenshoot/5.PNG">
